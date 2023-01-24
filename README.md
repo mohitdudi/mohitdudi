@@ -1,12 +1,7 @@
 ### Hi there 👋
+### Welcome to My repository 
 
- __  __       _     _ _     ____            _ _ 
-|  \/  | ___ | |__ (_) |_  |  _ \ _   _  __| (_)
-| |\/| |/ _ \| '_ \| | __| | | | | | | |/ _` | |
-| |  | | (_) | | | | | |_  | |_| | |_| | (_| | |
-|_|  |_|\___/|_| |_|_|\__| |____/ \__,_|\__,_|_|
-
-### here 
+**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitdudi)](https://github.com/anuraghazra/github-readme-stats)**
 
 My Python Notes -> https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=WU9kf2
 <!--

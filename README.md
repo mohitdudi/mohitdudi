@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ __  __       _     _ _     ____            _ _ 
+|  \/  | ___ | |__ (_) |_  |  _ \ _   _  __| (_)
+| |\/| |/ _ \| '_ \| | __| | | | | | | |/ _` | |
+| |  | | (_) | | | | | |_  | |_| | |_| | (_| | |
+|_|  |_|\___/|_| |_|_|\__| |____/ \__,_|\__,_|_|
+
+### here 
+
 My Python Notes -> https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=WU9kf2
 <!--
 **mohitdudi/mohitdudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

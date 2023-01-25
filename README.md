@@ -12,4 +12,3 @@
 
 ## Find me
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m0hitdudi/)
-[![replit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jjW1EAGzaMTiEWcyEKbX5gAAAA%26pid%3DApi&f=1&ipt=a9be6121e268470359eb71512092e8e1ed7ae52532eef1168d20cd4eb95f8bca&ipo=images)](https://replit.com/mohitdudi/)

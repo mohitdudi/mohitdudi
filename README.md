@@ -1,6 +1,8 @@
 ### Welcome to My repository 
 
-**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitdudi&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)**
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisTitusTech&show_icons=true&theme=tokyonight" />
+</a></p>
 
 [My Python Notes](https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=jM4dwY)
 

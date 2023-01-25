@@ -2,7 +2,7 @@
 
 **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitdudi&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)**
 
-My Python Notes -> https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=WU9kf2
+My Python Notes -> https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=sFvXOo
 <!--
 **mohitdudi/mohitdudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitdudi&show_icons=true&theme=gotham" />
 </a></p>
 
-[My Python Notes](https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=jM4dwY)
+[My Python Notes](https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=lYBL5g)
 
 ## 🛠 Skills
 - I am currently learning Python

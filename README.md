@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitdudi&show_icons=true&theme=gotham" />
 </a></p>
 
-[My Python Notes](https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=ysQdxF) | [Tools for Hacking](https://github.com/mohitdudi/hacking/blob/main/tools-for-hacking.md) | [Books for Hacking](https://github.com/mohitdudi/hacking/blob/main/books-for-hacking.md) | [Find Free E-books](https://pdfdrive.com)
+[My Python Notes](https://1drv.ms/u/s!AoEU2VItwcTeizR9S3iyxDkoEx_d?e=ysQdxF) | [My C Notes](https://1drv.ms/u/s!AoEU2VItwcTejE4IbwQqgU4niFLa?e=dTJYJI) | [Tools for Hacking](https://github.com/mohitdudi/hacking/blob/main/tools-for-hacking.md) | [Books for Hacking](https://github.com/mohitdudi/hacking/blob/main/books-for-hacking.md) | [Find Free E-books](https://pdfdrive.com)
 
 ## 🛠 Skills
 - I am currently learning Python

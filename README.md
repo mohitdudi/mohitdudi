@@ -1,12 +1,3 @@
-### Welcome to My repository 
-
-<br>
-
-[Tools for Hacking](https://github.com/mohitdudi/hacking/blob/main/tools-for-hacking.md) | [Books for Hacking](https://github.com/mohitdudi/hacking/blob/main/books-for-hacking.md) | [Find Free E-books](https://pdfdrive.com)
-
-<br>
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitdudi&show_icons=true&theme=gotham" />
-</a></p>
+Hey there, I am Mohit, interested in computers and tech. Currently I am learning Rust. 
+You won't find anything special in repo's section because I don't upload most of the time
 
